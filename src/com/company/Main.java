@@ -1,5 +1,7 @@
 package com.company;
 
+import com.DSALearnings.Strings;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -10,5 +12,6 @@ public class Main {
         int b = 20;
         int c = a+b;
         System.out.println("Addition of two numbers = "+c+" ");
+        Strings.main();
     }
 }
